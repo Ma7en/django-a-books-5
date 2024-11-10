@@ -237,11 +237,11 @@ python3 manage.py runserver
 `Step 10` : Info Admin.
 
 ```
-homeverse_proj@gmail.com
+_proj@gmail.com
 ```
 
 ```
-homeverse@@1
+@@1
 ```
 
 `Step 11` : Info Server.
@@ -369,15 +369,15 @@ python manage.py createsuperuser
 ```
 
 ```
-homeverse_proj@gmail.com
+_proj@gmail.com
 ```
 
 ```
-homeverse_proj
+_proj
 ```
 
 ```
-homeverse@@1
+@@1
 ```
 
 `Step 9` : Run Server.
@@ -389,17 +389,17 @@ python manage.py runserver
 `Step 10` : Info Admin.
 
 ```
-homeverse_proj@gmail.com
+_proj@gmail.com
 ```
 
 ```
-homeverse@@1
+@@1
 ```
 
 `Step 11` : Info Server.
 
 ```
-m9ee9m+4@gmail.com
+
 ```
 
 ---
@@ -408,22 +408,7 @@ m9ee9m+4@gmail.com
 
 <ul>
 <li>
-    <b>User Authentication:</b> Secure registration, login, and password recovery.
-</li>
-<li>
-    <b>Project Creation:</b>
-</li>
-<li>
-    <b>Project Management:</b> Features for viewing, commenting, rating, and reporting projects.
-</li>
-<li>
-    <b>Homepage:</b> Displays featured, latest, and categorized projects.
-</li>
-<li>
-    <b>Search:</b> Allows users to find projects by title or tag.
-</li>
-<li>
-    <b>Additional Features:</b> user profiles, and notifications.
+    <b>: </b> .
 </li>
 </ul>
 
@@ -438,7 +423,7 @@ Technologies used in the project:
 
 ---
 
-<p align="left"><img src="https://profile-counter.glitch.me/iti-final-project-babackend/count.svg" alt="desphixs" /></p>
+<p align="left"><img src="https://profile-counter.glitch.me/django-a-books-5/count.svg" alt="desphixs" /></p>
 
 ---
 
