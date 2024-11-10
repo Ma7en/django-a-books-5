@@ -442,22 +442,6 @@ Technologies used in the project:
 
 ---
 
-<h1>Under The Supervision of:</h1>
-<table>
-    <tr>
-        <td>
-            <img src="https://avatars.githubusercontent.com/u/84921583?v=4"></img>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/Ma7moudHelmi">Mahmoud Elmahmoudy</a>
-        </td>
-    </tr>
-</table>
-
----
-
 ## Contributors
 
 <table>
@@ -465,33 +449,10 @@ Technologies used in the project:
         <td>
             <img src="https://avatars.githubusercontent.com/u/91129862?v=4"></img>
         </td>
-        <td>
-            <img src="https://avatars.githubusercontent.com/u/120313545?v=4"></img>
-        </td>
     </tr>
     <tr>
         <td>
             <a href="https://github.com/Ma7en">Mazen Saad</a>
         </td>
-        <td>
-            <a href="https://github.com/rehabezzat">Rehab Ezzat</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://avatars.githubusercontent.com/u/93333314?v=4"></img>
-        </td>
-        <td>
-            <img src="https://avatars.githubusercontent.com/u/174034623?v=4"></img>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/Shrouk2000">Shrouk Ahmed</a>
-        </td>
-        <td>
-            <a href="https://github.com/nada-mohamed-ops">Nada Mohamed</a>
-        </td>
     </tr>
 </table>
-```
